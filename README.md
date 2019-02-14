@@ -87,8 +87,10 @@
   * MAC changer
   * Crunch
   * SEToolkit
-  * 
-
+  * Metasploit
+  * Aireplay-ng
+  * Airmon-ng
+  * Burp Suite
 
 
 
